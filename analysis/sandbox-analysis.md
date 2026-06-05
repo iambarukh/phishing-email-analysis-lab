@@ -25,9 +25,11 @@
 ## What Happened When Email Opened
 
 ### Process Tree
+```text
 OUTLOOK.EXE (PID: 8004)
 └── ai.exe (PID: 8704)
 └── Child process spawned
+```
 ### Explanation:
 - Sandbox automatically opened email in **Microsoft Outlook**
 - Outlook launched **ai.exe** as child process

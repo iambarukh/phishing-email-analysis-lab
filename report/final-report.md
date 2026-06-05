@@ -1,8 +1,11 @@
 # Phishing Email Analysis — Final Investigation Report
 
 **Analyst:** Aswad
+
 **Date:** June 5, 2026
-**Classification:** Educational / Portfolio Project
+
+**Classification:** Portfolio Project
+
 **Severity:** HIGH — Active Phishing Campaign Identified
 
 ---

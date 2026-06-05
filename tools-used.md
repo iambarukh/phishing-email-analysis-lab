@@ -9,7 +9,7 @@
 | VirusTotal | virustotal.com       | Multi-engine URL/IP scanner    | URL analysis     |
 | URLScan.io | urlscan.io           | URL behavior analysis          | URL analysis     |
 | AbuseIPDB  | abuseipdb.com        | IP reputation database         | IP investigation |
-| Whois      | whois command | Domain registration info       | Domain age check |
+| Whois      | whois  | Domain registration info       | Domain age check |
 | Any.run    | app.any.run          | Interactive sandbox            | Behavior analysis|
 
 ---

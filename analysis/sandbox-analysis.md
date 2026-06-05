@@ -71,9 +71,11 @@ OUTLOOK.EXE (PID: 8004)
 
 ### File IOC
 File: phishing-sample-01.eml
+
 MD5:  ad951d13053484cadab5c5d496937aed
 ### Network IOCs (Defanged)
 hxxp://paypal-secure-login[.]xyz/verify?token=abc123
+
 hxxp://185.220.101[.]47/track[.]php?id=victim123
 ### IP IOC
 185.220.101.47 — Tor Exit Node — Berlin, Germany

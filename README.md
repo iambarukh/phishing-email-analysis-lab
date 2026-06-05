@@ -1,14 +1,5 @@
 # Phishing Email Analysis Lab
 
-![Security](https://img.shields.io/badge/Category-Cybersecurity-red)
-![Type](https://img.shields.io/badge/Type-Threat%20Analysis-orange)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![Tools](https://img.shields.io/badge/Tools-7-blue)
-
-> Real-World Phishing Email Investigation and Professional Report
-> A hands-on cybersecurity project demonstrating email threat
-> analysis using industry-standard tools.
-
 ---
 
 ## Project Overview

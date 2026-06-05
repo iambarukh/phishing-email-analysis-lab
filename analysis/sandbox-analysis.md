@@ -77,8 +77,11 @@ hxxp://paypal-secure-login[.]xyz/verify?token=abc123
 hxxp://185.220.101[.]47/track[.]php?id=victim123
 ### IP IOC
 185.220.101.47 — Tor Exit Node — Berlin, Germany
+
 AbuseIPDB Score: 100% malicious
+
 Total Reports: 6,561
+
 ---
 
 ## Sandbox Findings Summary

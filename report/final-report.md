@@ -6,7 +6,7 @@
 
 **Classification:** Portfolio Project
 
-**Severity:** HIGH — Active Phishing Campaign Identified
+**Severity:** HIGH 
 
 ---
 
@@ -51,6 +51,7 @@ IP reputation services, URL scanners, and sandbox environments.
 | DMARC | FAIL   | No DMARC policy on domain              |
 
 **Tool Used:** MXToolbox
+
 **Key Finding:** IP 185.220.101.47 found on blacklist
 
 ### Red Flags in Header
@@ -80,27 +81,7 @@ http://paypal-secure-login.xyz/verify?token=abc123
 http://185.220.101.47/track.php?id=victim123
 ---
 
-## 8. Attack Flow
-Step 1: Victim receives email from paypa1-secure.com
-↓
-Step 2: Subject line creates fear — "Account Suspended"
-↓
-Step 3: Victim opens email — tracking pixel fires
-↓
-Step 4: Attacker records victim IP and device info
-↓
-Step 5: Victim clicks malicious link
-↓
-Step 6: Fake PayPal login page loads
-↓
-Step 7: Victim enters credentials
-↓
-Step 8: Credentials stolen — sent to attacker server
-↓
-Step 9: Victim redirected to real PayPal (no suspicion)
----
-
-## 9. Recommendations
+## 8. Recommendations
 
 ### For Organizations:
 1. Enforce DMARC policy with p=reject on all domains
@@ -118,7 +99,7 @@ Step 9: Victim redirected to real PayPal (no suspicion)
 
 ---
 
-## 10. Conclusion
+## 9. Conclusion
 
 This investigation confirms a high-confidence phishing campaign
 targeting PayPal users. The attacker used multiple sophisticated
@@ -145,6 +126,3 @@ neutralized this threat.
 | Whois      | Linux terminal       |
 
 ---
-
-*Report prepared for educational and portfolio purposes.*
-*Analyst: Aswad | GitHub: [Your GitHub URL]*

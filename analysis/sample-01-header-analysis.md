@@ -22,6 +22,7 @@
 | DMARC | FAIL   | No DMARC policy on domain               |
 
 **Tool Used:** MXToolbox (mxtoolbox.com)
+
 **Result:** IP 185.220.101.47 flagged — IS ON BLACKLIST
 
 ---

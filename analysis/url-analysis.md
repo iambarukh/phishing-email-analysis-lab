@@ -7,6 +7,7 @@ http://paypal-secure-login.xyz/verify?token=abc123
 ## VirusTotal Scan Results
 
 **Tool:** VirusTotal (virustotal.com)
+
 **Scan Date:** June 5, 2026
 
 | Metric          | Result                        |

@@ -23,8 +23,9 @@ techniques, and threat infrastructure.
 
 ---
 
-## Repository Structure
+##  Repository Structure
 
+```text
 phishing-email-analysis-lab/
 │
 ├── README.md
@@ -52,6 +53,8 @@ phishing-email-analysis-lab/
 │
 └── report/
 └── final-report.md
+```
+
 
 ---
 

@@ -9,7 +9,7 @@
 | VirusTotal | virustotal.com       | Multi-engine URL/IP scanner    | URL analysis     |
 | URLScan.io | urlscan.io           | URL behavior analysis          | URL analysis     |
 | AbuseIPDB  | abuseipdb.com        | IP reputation database         | IP investigation |
-| Whois      | whois command (Linux)| Domain registration info       | Domain age check |
+| Whois      | whois command | Domain registration info       | Domain age check |
 | Any.run    | app.any.run          | Interactive sandbox            | Behavior analysis|
 
 ---
@@ -47,8 +47,8 @@
 - Type: Tor Exit Node — Berlin, Germany
 - Still actively reported (10 hours before analysis)
 
-### 6. Whois (Linux Terminal)
-- Command: whois paypal-secure-login.xyz
+### 6. Whois 
+- whois paypal-secure-login.xyz
 - Result: DOMAIN NOT FOUND
 - Domain was suspended/deleted due to malicious activity
 - Confirms security vendors took action

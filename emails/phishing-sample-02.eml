@@ -1,0 +1,36 @@
+From: alerts@secure-bankofamerica.net
+To: customer@example.com
+Subject: Action Required: Suspicious Login Detected on Your Account
+Date: Tue, 03 Jun 2026 14:32:11 -0400
+Message-ID: <boa882@secure-bankofamerica.net>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Received: from smtp.secure-bankofamerica.net (91.108.4.33)
+   by mx.example.com; Tue, 03 Jun 2026 14:32:14 -0400
+X-Mailer: Sendmail 8.14
+X-Originating-IP: 91.108.4.33
+Return-Path: bounce@secure-bankofamerica.net
+
+<!DOCTYPE html>
+<html>
+<body>
+<p>Dear Bank of America Customer,</p>
+
+<p>A login attempt was made from an <strong>unrecognized device</strong>:</p>
+<ul>
+  <li>Location: Russia (Moscow)</li>
+  <li>Time: June 3, 2026 at 2:28 AM EST</li>
+  <li>Device: Unknown Android Device</li>
+</ul>
+
+<p>If this was NOT you, click below immediately to secure your account:</p>
+
+<a href="http://bofa-secure-verify.ru/login?redirect=account">
+  SECURE MY ACCOUNT NOW
+</a>
+
+<p>Failure to act may result in unauthorized transactions.</p>
+
+<p>Bank of America Fraud Prevention Team</p>
+</body>
+</html>

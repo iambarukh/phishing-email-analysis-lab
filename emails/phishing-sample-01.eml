@@ -1,0 +1,35 @@
+From: security@paypa1-secure.com
+To: victim@example.com
+Subject: ⚠️ URGENT: Your PayPal Account Has Been Suspended!
+Date: Mon, 02 Jun 2026 09:14:22 -0500
+Message-ID: <xk291@paypa1-secure.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Received: from mail.paypa1-secure.com (185.220.101.47)
+   by mx.example.com; Mon, 02 Jun 2026 09:14:25 -0500
+X-Mailer: PHPMailer 5.2.0
+X-Originating-IP: 185.220.101.47
+
+<!DOCTYPE html>
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+
+<p>We have detected <strong>unusual activity</strong> on your PayPal account. 
+Your account has been <strong>temporarily suspended</strong> for your protection.</p>
+
+<p>To restore access, please verify your information immediately:</p>
+
+<a href="http://paypal-secure-login.xyz/verify?token=abc123">
+  CLICK HERE TO VERIFY YOUR ACCOUNT
+</a>
+
+<p>If you do not verify within 24 hours, your account will be 
+<strong>permanently closed</strong>.</p>
+
+<p>Thank you,<br>
+PayPal Security Team</p>
+
+<img src="http://185.220.101.47/track.php?id=victim123" width="1" height="1">
+</body>
+</html>

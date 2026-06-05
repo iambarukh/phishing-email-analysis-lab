@@ -2,8 +2,11 @@
 
 ## Tool Used
 **Any.run** (app.any.run) — Interactive Online Sandbox
+
 **Analysis Date:** June 5, 2026
+
 **File Analyzed:** phishing-sample-01.eml
+
 **MD5:** ad951d13053484cadab5c5d496937aed
 
 ---
